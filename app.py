@@ -219,25 +219,25 @@ log_model.fit(X_train, y_train)
 # ===========================
 # Model Selection
 # ===========================
-st.sidebar.title("⚙️ Model")
+# st.sidebar.title("⚙️ Model")
 
-selected_model = st.sidebar.selectbox(
-    "Choose Model",
-    [
-        "Random Forest",
-        "SVM",
-        "Logistic + Text"
-    ]
-)
+# selected_model = st.sidebar.selectbox(
+#     "Choose Model",
+#     [
+#         "Random Forest",
+#         "SVM",
+#         "Logistic + Text"
+#     ]
+# )
 
-if selected_model == "Random Forest":
-    model = rf_model
+# if selected_model == "Random Forest":
+#     model = rf_model
 
-elif selected_model == "SVM":
-    model = svm_model
+# elif selected_model == "SVM":
+#     model = svm_model
 
-else:
-    model = log_model
+# else:
+#     model = log_model
 
 # ===========================
 # Evaluation
