@@ -2,5 +2,7 @@ streamlit
 pandas
 numpy
 matplotlib
+seaborn
 scikit-learn
+wordcloud
 shap
