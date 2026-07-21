@@ -154,3 +154,19 @@ Visualizations included:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
+
+```
+
+---
+
+---
+
+<div align="center">
+
+## 💙 Developed by Coding Hub
+
+HR Analytics & Machine Learning Project
+
+© 2026 Coding Hub. All Rights Reserved.
+
+</div>
